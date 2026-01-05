@@ -1,10 +1,6 @@
 🔐 SecurePass Pro - Password Generator
 A beautiful, secure, and responsive password generator built with React and pure CSS. Generate strong passwords with customizable options directly in your browser.
 
-https://img.shields.io/badge/Preview-React%2520%252B%2520CSS-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Version-1.0.0-purple
-
 ✨ Features
 🔐 Secure Generation: Generate cryptographically secure passwords
 
